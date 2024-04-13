@@ -1,0 +1,8 @@
+export const AUTH_START = "AUTH_START";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_FAILED = "AUTH_FAILED";
+export const SESSION_DESTROY = "SESSION_DESTROY";
+
+export const PRODUCT_LOADING = "PRODUCT_LOADING";
+export const PRODUCT_SUCCESS = "PRODUCT_SUCCESS";
+export const PRODUCT_FAILED = "PRODUCT_FAILED";

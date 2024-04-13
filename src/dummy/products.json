@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100000,
+      "image": "/product-1.jpeg",
+      "category": "Sneakers",
+      "productDetails": {
+        "productName": "Sepatu Sneakers",
+        "productDescription": "Sepatu sneakers dengan desain trendy dan nyaman dipakai sehari-hari.",
+        "productPrice": 250000,
+        "productRating": 4.5,
+        "images": [
+          "/product-1.jpeg",
+          "/product-2.jpeg",
+          "/product-3.jpeg",
+          "/product-4.jpeg",
+          "/product-5.jpeg",
+          "/product-6.jpeg",
+          "/product-1.jpeg"
+        ],
+        "comments": [
+          {
+            "text": "Sepatu sangat nyaman dipakai, sangat direkomendasikan!",
+            "media": null
+          },
+          {
+            "text": "Kualitas sepatu sangat baik, sesuai dengan harga yang ditawarkan.",
+            "media": {
+              "type": "image",
+              "url": "https://example.com/image1.jpg"
+            }
+          },
+          {
+            "text": "Pengiriman cepat dan pelayanan pelanggan yang ramah.",
+            "media": {
+              "type": "video",
+              "url": "https://example.com/video.mp4"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "image": "/product-2.jpeg",
+      "price": 150000,
+      "category": "Clothes",
+      "productDetails": {
+        "productName": "Sepatu Boots",
+        "productDescription": "Sepatu boots dengan desain klasik yang cocok untuk berbagai kesempatan.",
+        "productPrice": 200000,
+        "productRating": 4.2,
+        "images": [
+          "/product-1.jpeg",
+          "/product-2.jpeg",
+          "/product-3.jpeg",
+          "/product-4.jpeg",
+          "/product-5.jpeg",
+          "/product-6.jpeg",
+          "/product-1.jpeg"
+        ],
+        "comments": [
+          {
+            "text": "Sepatu sangat stylish dan nyaman dipakai.",
+            "media": {
+              "type": "image",
+              "url": "https://example.com/image6.jpg"
+            }
+          },
+          {
+            "text": "Harganya terjangkau dan kualitasnya memuaskan.",
+            "media": null
+          },
+          {
+            "text": "Sangat puas dengan pembelian ini!",
+            "media": null
+          }
+        ]
+      }
+    }
+  ]
+  
